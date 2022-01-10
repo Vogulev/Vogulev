@@ -29,6 +29,6 @@ I'm currently working as Java backend developer in PochtaTech company.
 *   GitHub/GitLab/Bitbucket
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/vogulev/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=vogulev&color=grey">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=vogulev&color=blue">
    </a>
 </div>
