@@ -23,7 +23,7 @@ I'm currently working as Java backend developer in  <a href="https://pochta.tech
 
 ## 🛠 Technical Stack
 *   Java
-*   PostgreSQL, MongoDB, Flyway, H2/HSQLDB, Elasticsearch
+*   PostgreSQL, MySQL, MongoDB, Flyway, H2/HSQLDB, Elasticsearch
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template and so on...
 *   Hibernate, Tomcat, Swagger
 *   GitHub/GitLab/Bitbucket
