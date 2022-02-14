@@ -21,7 +21,7 @@ I'm currently working as Java backend developer in  <a href="https://pochta.tech
   </a>
 </p>
 <p align='center'>
-   <a href="https://www.linkedin.com/in/vogulev/">https://www.codewars.com/users/Artem%20V.
+   <a href="https://www.codewars.com/users/Artem%20V.">
       <img src="https://www.codewars.com/users/Artem%20V./badges/large"/>
    </a>
 </p>
