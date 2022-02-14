@@ -20,7 +20,11 @@ I'm currently working as Java backend developer in  <a href="https://pochta.tech
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<p align='center'>https://www.codewars.com/users/Artem%20V./badges/large</p>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/vogulev/">https://www.codewars.com/users/Artem%20V.
+      <img src="https://www.codewars.com/users/Artem%20V./badges/large"/>
+   </a>
+</p>
 
 ## 🛠 Technical Stack
 *   Java
