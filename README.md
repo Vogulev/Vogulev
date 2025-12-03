@@ -20,9 +20,10 @@ I'm currently working as Java backend developer in  <a href="http://www.sberbank
 
 ## 🛠 Technical Stack
 *   Java
-*   PostgreSQL, MySQL, MongoDB, Flyway, H2/HSQLDB, Elasticsearch
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template and so on...
-*   Hibernate, Tomcat, Swagger
+*   PostgreSQL, MySQL, MongoDB, Flyway, H2, Elasticsearch, Kafka
+*   Spring Framework, Spring Boot, Spring Data Jpa, Spring Jdbc template and so on...
+*   Hibernate, Tomcat, OpenApi
+*   Rest, GraphQL, JsonRPC
 *   GitHub/GitLab/Bitbucket
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/vogulev/github-profile-views-counter">
