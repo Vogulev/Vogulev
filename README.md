@@ -2,14 +2,6 @@
 I'm currently working as Java backend developer in  <a href="http://www.sberbank.ru">Sber</a> company.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=vogulev&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=vogulev&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/vogulev/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vogulev&layout=compact"/></a>
-</p>
-
-<p align='center'>
    <a href="https://www.linkedin.com/in/vogulev/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
